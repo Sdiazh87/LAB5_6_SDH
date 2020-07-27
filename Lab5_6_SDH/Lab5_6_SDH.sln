@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab5_6_SDH", "Lab5_6_SDH\Lab5_6_SDH.csproj", "{3DC7D900-32B8-4105-B963-316B9429864A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapaDatos", "CapaDatos\CapaDatos.csproj", "{48301AAA-6C93-43AF-B2D5-4D9D7E060078}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3DC7D900-32B8-4105-B963-316B9429864A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DC7D900-32B8-4105-B963-316B9429864A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DC7D900-32B8-4105-B963-316B9429864A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DC7D900-32B8-4105-B963-316B9429864A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{48301AAA-6C93-43AF-B2D5-4D9D7E060078}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{48301AAA-6C93-43AF-B2D5-4D9D7E060078}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{48301AAA-6C93-43AF-B2D5-4D9D7E060078}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{48301AAA-6C93-43AF-B2D5-4D9D7E060078}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88778B1B-CAC4-4E5D-9C40-EEBAC585E975}
+	EndGlobalSection
+EndGlobal

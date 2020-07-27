@@ -1,0 +1,7 @@
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\bin\Debug\CapaDatos.dll
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\bin\Debug\CapaDatos.pdb
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\obj\Debug\CapaDatos.csprojAssemblyReference.cache
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\obj\Debug\CapaDatos.csproj.CoreCompileInputs.cache
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\obj\Debug\CapaDatos.dll
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\obj\Debug\CapaDatos.pdb
+C:\Users\papi6\Desktop\LABORATORIO 5\Lab5_6_SDH\CapaDatos\bin\Debug\CapaDatos.dll.config
